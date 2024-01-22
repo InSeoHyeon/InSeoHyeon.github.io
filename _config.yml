@@ -32,8 +32,6 @@ search:
 
 # Aux links for the upper right navigation
 aux_links: "https://github.com/InSeoHyeon/inseohyeon.github.io.git"
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
